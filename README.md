@@ -24,6 +24,7 @@ This project is an **intelligent task recommendation system** that integrates **
 ## Smart Task Recommendation System Architecture | مخطط هيكل النظام الذكي لتوصية المهام
 
 ## End-to-End Task Automation & Recommendation Flow | مخطط سير عمل نظام التوصية الذكي للمهام
+<img width="1201" height="5625" alt="Selection (1)" src="https://github.com/user-attachments/assets/5d60c526-33a8-4217-b7b0-daf650ff59b4" />
 
  
 
