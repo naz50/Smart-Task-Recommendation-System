@@ -21,6 +21,12 @@ This project is an **intelligent task recommendation system** that integrates **
 
 ## 🏗️ System Architecture | هيكل النظام
 
+## Smart Task Recommendation System Architecture | مخطط هيكل النظام الذكي لتوصية المهام
+
+## End-to-End Task Automation & Recommendation Flow | مخطط سير عمل نظام التوصية الذكي للمهام
+
+ 
+
 ### 🔹 Main Components:
 1. **Microsoft Planner** – مصدر المهام (المسندة وغير المسندة).  
 2. **Power Automate (Flow)** – يسحب البيانات من Planner ويصنفها.  
