@@ -54,27 +54,3 @@ if TaskType = 'SPSS' → +15
 if TaskType = 'Power BI' → +10  
 else → +5
 
-## 🧩 Data Preparation | تجهيز البيانات
-
-### 🔸 Data Sources
-- `EmployeesTable` ← من نظام **ERP**.  
-- `Task_Assignment` ← من **SharePoint** (عبر Power Automate).
-
----
-
-### 🔸 ETL Steps
-- 🧹 **تنظيف البيانات** وتوحيد التنسيقات.  
-- ⚙️ **التعامل مع القيم الفارغة والمكررة** لضمان جودة التحليل.  
-- 🔁 **تحديث تلقائي** عبر **Pipeline Schedule** في Microsoft Fabric.
-
----
-
-## 🧠 Machine Learning Model | نموذج الذكاء الاصطناعي
-
-### 🔸 Translation Layer
-يستخدم **Deep Translator** لترجمة النصوص العربية إلى الإنجليزية قبل تحليلها لتسهيل معالجة اللغة الطبيعية:
-
-```python
-from deep_translator import GoogleTranslator
-GoogleTranslator(source='auto', target='en').translate(text)
-
