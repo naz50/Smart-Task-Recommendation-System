@@ -49,6 +49,11 @@ https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5N
 
 ## ⚙️ Power Automate Flow | سير العمل
 
+
+<img width="1268" height="603" alt="DW4_PIPLINE_2" src="https://github.com/user-attachments/assets/937f1c3a-58ee-4266-9d37-d86ffd891d07" />
+
+
+
 ### 🔸 Trigger:
 - **Recurrence Trigger ⏰** – يعمل **4 مرات يوميًا**.
 
