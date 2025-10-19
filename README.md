@@ -44,7 +44,7 @@ This project is an **intelligent task recommendation system** that integrates **
 
 
 - 📊 **رابط الـ Power BI Dashboard** .  
-https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5NWZhMDQyIiwidCI6IjMzYTllMjJjLTUwOWUtNDYyNC05NmNjLTc2OWFjNzk2OGNhNSIsImMiOjl9 
+[![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5NWZhMDQyIiwidCI6IjMzYTllMjJjLTUwOWUtNDYyNC05NmNjLTc2OWFjNzk2OGNhNSIsImMiOjl9)
 ---
 
 ## ⚙️ Power Automate Flow | سير العمل
