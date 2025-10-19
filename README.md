@@ -74,6 +74,7 @@ if TaskType = 'Power BI' → +10
 else → +5
 ```
 
+---
 <img width="1138" height="871" alt="DW-Bonus" src="https://github.com/user-attachments/assets/5e7fadb3-c39e-4766-9c69-ab2728359102" />
 
 
