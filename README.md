@@ -10,7 +10,8 @@ This project is an **intelligent task recommendation system** that integrates **
 
 
 
-## 📄 [View the Project Overview (PDF)](نظام التوصية الذكي للمهام (Smart Task Recommendation System).pdf)
+## 📄 [View the Project Overview (PDF)](http://github.com/naz50/Smart-Task-Recommendation-System/blob/main/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A%20%D9%84%D9%84%D9%85%D9%87%D8%A7%D9%85%20(Smart%20Task%20Recommendation%20System).pdf)
+
 
 
 ## 🎯 Objectives | الأهداف
