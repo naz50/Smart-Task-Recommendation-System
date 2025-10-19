@@ -9,6 +9,10 @@ This project is an **intelligent task recommendation system** that integrates **
 
 
 
+
+## 📄 [View the Project Overview (PDF)](نظام التوصية الذكي للمهام (Smart Task Recommendation System).pdf)
+
+
 ## 🎯 Objectives | الأهداف
 - ⚖️ ضمان **توزيع المهام بشكل عادل وموضوعي**.  
 - 🤖 **تقليل الجهد الإداري** عبر التوصية التلقائية بالموظف الأنسب.  
