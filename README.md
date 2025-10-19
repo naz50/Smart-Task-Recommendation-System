@@ -41,7 +41,7 @@ This project is an **intelligent task recommendation system** that integrates **
 7. **Power BI Dashboard** – لعرض النتائج بصريًا.
 8. **Teams / Outlook Alerts** – لإرسال التنبيهات الدورية.
 
----
+
 
 - 📊 **رابط الـ Power BI Dashboard** .  
 https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5NWZhMDQyIiwidCI6IjMzYTllMjJjLTUwOWUtNDYyNC05NmNjLTc2OWFjNzk2OGNhNSIsImMiOjl9 
@@ -56,7 +56,7 @@ https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5N
 - إذا كانت المهمة **غير مسندة** → تُضاف إلى `Task_Assignment`  
 - إذا كانت المهمة **مسندة أو مكتملة** → تُضاف إلى `Task_Assigned_To`
 
----
+
 
 ## 💰 Bonus Logic | منطق المكافآت
 
