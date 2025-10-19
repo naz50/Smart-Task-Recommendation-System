@@ -27,7 +27,9 @@ This project is an **intelligent task recommendation system** that integrates **
 ## End-to-End Task Automation & Recommendation Flow | مخطط سير عمل نظام التوصية الذكي للمهام
 <img width="556" height="977" alt="image" src="https://github.com/user-attachments/assets/d7fe80cd-f8e1-4da8-9f13-d21aa47121c1" />
 
- 
+ ### 🔹 قاعدة بيانات موظفين (ERP) | ERP Employees Database:
+<img width="1571" height="635" alt="SQL_EMP_DB" src="https://github.com/user-attachments/assets/e6875d93-f603-4cea-ae90-e08812f4997c" />
+
 
 ### 🔹 Main Components:
 1. **Microsoft Planner** – مصدر المهام (المسندة وغير المسندة).  
