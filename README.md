@@ -17,7 +17,7 @@ This project is an **intelligent task recommendation system** that integrates **
 - 📊 **عرض تحليلات Power BI تفاعلية** للمديرين والموظفين.  
 - 💎 **تحفيز الأداء** عبر نظام المكافآت (Bonus).
 
----
+
 
 ## 🏗️ System Architecture | هيكل النظام
 
