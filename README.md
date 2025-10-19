@@ -20,14 +20,14 @@ This project is an **intelligent task recommendation system** that integrates **
 
 ## 🏗️ System Architecture | هيكل النظام
 
-## Smart Task Recommendation System Architecture | مخطط هيكل النظام الذكي لتوصية المهام
+## 🧾 Smart Task Recommendation System Architecture | مخطط هيكل النظام الذكي لتوصية المهام
 <img width="3515" height="1020" alt="Smart Task Recommendation System Architecture" src="https://github.com/user-attachments/assets/d4c7066e-c31f-40aa-b068-e868cd4bc552" />
 
 
-## End-to-End Task Automation & Recommendation Flow | مخطط سير عمل نظام التوصية الذكي للمهام
+## 🧾 End-to-End Task Automation & Recommendation Flow | مخطط سير عمل نظام التوصية الذكي للمهام
 <img width="556" height="977" alt="image" src="https://github.com/user-attachments/assets/d7fe80cd-f8e1-4da8-9f13-d21aa47121c1" />
 
-##  ERP Employees Database |  قاعدة بيانات موظفين (ERP)
+## 👥 ERP Employees Database |  قاعدة بيانات موظفين (ERP)
 <img width="1571" height="635" alt="SQL_EMP_DB" src="https://github.com/user-attachments/assets/e6875d93-f603-4cea-ae90-e08812f4997c" />
 
 
@@ -44,8 +44,8 @@ This project is an **intelligent task recommendation system** that integrates **
 8. **Teams / Outlook Alerts** – لإرسال التنبيهات الدورية.
 
 
-
-- 📊 **رابط الـ Power BI Dashboard** .  
+## 📊 Power BI Dashboard URL
+ 
 [![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiY2FmYTYxYWMtNGMzNi00NTY1LWI5OTItZTRhZDE5NWZhMDQyIiwidCI6IjMzYTllMjJjLTUwOWUtNDYyNC05NmNjLTc2OWFjNzk2OGNhNSIsImMiOjl9)
 ---
 
