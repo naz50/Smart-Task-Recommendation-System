@@ -1,7 +1,6 @@
 # 🧠 Smart Task Recommendation System  
 ### نظام التوصية الذكي للمهام (Automation + Machine Learning)
 
----
 
 ## 🚀 Overview | نظرة عامة
 This project is an **intelligent task recommendation system** that integrates **Automation + Machine Learning (ML)** to assist managers in assigning tasks fairly, efficiently, and transparently.  
